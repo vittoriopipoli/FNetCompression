@@ -1,4 +1,4 @@
-# FNetCompression - ICIC 2024
+# FNetCompression - ICIC 2024 (Paper Accepted)
 Official Implementation of 
 
 **Squeeze and Learn: Compressing Long Sequences with Fourier Transformers for Gene Expression Prediction**
